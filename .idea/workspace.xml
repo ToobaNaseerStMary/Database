@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8e8ff5e-46d6-4bc4-a52d-7be6af4bb57e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cps7003/week9/mongo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Database.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Database.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/product_store.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/product_store_2NF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/product_store_2NF_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/hr.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/hr.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/hr_database.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/hr_database.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/data_access_layer/course.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/data_access_layer/module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/data_access_layer/module_tutor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/data_access_layer/role.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/data_access_layer/subject.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/data_access_layer/university.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/data_access_layer/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/database_layer/create_database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/database_layer/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/database/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/persistence/cruds/course_crud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/persistence/cruds/module_crud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/persistence/cruds/module_tutor_crud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/persistence/cruds/role_crud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/persistence/cruds/subject_crud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/persistence/cruds/user_crud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/persistence/entities/course.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/persistence/entities/module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/persistence/entities/module_tutor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/persistence/entities/role.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/persistence/entities/subject.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/persistence/entities/user.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cps7003" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ddecDLZc5kN0Fgtd6OGtTyDite" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/2317325/Desktop/Database"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\2317325\Desktop\Database\cps7003\week7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\2317325\Desktop\Database\cps7003\week7\database" />
+      <recent name="C:\Users\2317325\Desktop\Database\cps7003\week7\persistence\cruds" />
+      <recent name="C:\Users\2317325\Desktop\Database\cps7003\week7\persistence" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mongo">
+    <configuration name="constant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cps7003/week7/persistence" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\2317325\Desktop\Database\cps7003\week7\database\constant.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mongo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cps7003/week9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cps7003/week9/mongo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="role_crud" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cps7003/week7/persistence/cruds" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cps7003/week7/persistence/cruds/role_crud.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mongo" />
+        <item itemvalue="Python.role_crud" />
+        <item itemvalue="Python.constant" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8e8ff5e-46d6-4bc4-a52d-7be6af4bb57e" name="Changes" comment="" />
+      <created>1710342459974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710342459974</updated>
+    </task>
+    <servers />
+  </component>
+</project>
